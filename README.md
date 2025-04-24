@@ -45,7 +45,3 @@ El proyecto sigue un patrón de arquitectura MVC (Modelo-Vista-Controlador):
 ## 🔐 Seguridad
 
 El sistema implementa validación de credenciales para funciones administrativas. La clave predeterminada para operaciones administrativas es: `lot01AXM`
-
-## 👨‍💻 Desarrollado por
-
-JacoboLS04
